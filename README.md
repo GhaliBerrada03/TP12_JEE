@@ -17,14 +17,7 @@ Application Spring Boot sécurisée avec **JWT (JSON Web Token)** pour gérer l�
 - Accès sécurisé aux endpoints
 - Gestion des rôles (USER / ADMIN)
 
-## 🔑 Authentification
-### Login :
-POST `/api/auth/login`
 
-Body :
-```json
-{
-  "username": "user",
-  "password": "1234"
-}
 
+<img width="895" height="822" alt="Screenshot 2026-03-30 131353" src="https://github.com/user-attachments/assets/784a12e6-f044-4e6e-ba7e-887469e2191f" />
+<img width="895" height="769" alt="Screenshot 2026-03-30 131615" src="https://github.com/user-attachments/assets/c63e2ef9-03b6-4e44-a324-f9d6ee97f948" />
